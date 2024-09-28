@@ -1,31 +1,35 @@
-# How-to-use-github
+# README
 
-# 1. Github 기본 용어 정리 
-1)CLI (Command-line interface)/GUI(Graphical User Interface) 
+## 1) README 개념
+README 파일은 주로 Github 프로필 혹은 Repository에 대한 설명을 나타내기 위해 작성한다.
+README 파일에는 일반적으로 프로젝트에 대한 정보가 담겨 있어, 소프트웨어 배포시에 함께 포함된다.
+쉽게 말해 가이드라인, 안내문 정도로 생각할 수 있다.
+ 
 
-- CLI : 명령어 인터페이스로, 주로 터미널을 통해 컴퓨터와 상호작용하는 방식 
-
-- GUI : 입출력 등의 기능을 알기 쉬운 아이콘 등의 그래픽으로 나타낸 것 
+## 2) 확장자
+우리가 흔히 Readme.md라고 말하는 .md라는 확장자는 Git에서만 사용하는 것이고, Windows 또는 Mac OS에서는 .txt를 확장자로 사용한다. 
 
  
 
-2)Local/Remote 
+## 3) README 파일의 구성
 
-- Local : 우리가 사용하고 있는 컴퓨터
+프로젝트 구성
+프로젝트 프로그램 설치방법
+프로젝트 프로그램 사용법
+저작권 및 사용권 정보
+프로그래머 정보
+버그 및 디버그
+참고 및 출처
+버전 및 업데이트 정보
+FAQ
 
-- Remot : 원격 저장소 
 
- 
 
-3) Repository (repo, 저장소) 
+## 4)MarkDown 문법
 
-- 프로젝트가 존재하는 저장 공간 
+#의 개수로 제목의 크기를 조절할 수 있다.
+제목의 크기는 #이 많아질수록 작아진다.
 
- 
-
-4)Branch (브랜치)
-
-- Repositoy 의 공간에서 독립적으로 어떤 작업을 하기 위한 공간 
 
  
 
